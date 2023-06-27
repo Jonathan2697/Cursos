@@ -1,0 +1,6 @@
+button:hover{
+    background: skyblue;
+}
+button:active{
+    background: blanchedalmond;
+}
